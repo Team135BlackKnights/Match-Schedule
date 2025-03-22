@@ -1,0 +1,508 @@
+{
+    "Red 1": {
+        "1": {
+            "match_number": "1",
+            "team": {
+                "number": "9119",
+                "color": "red"
+            }
+        },
+        "2": {
+            "match_number": "2",
+            "team": {
+                "number": "8431",
+                "color": "red"
+            }
+        },
+        "3": {
+            "match_number": "3",
+            "team": {
+                "number": "3147",
+                "color": "red"
+            }
+        },
+        "4": {
+            "match_number": "4",
+            "team": {
+                "number": "9453",
+                "color": "red"
+            }
+        },
+        "5": {
+            "match_number": "5",
+            "team": {
+                "number": "10172",
+                "color": "red"
+            }
+        },
+        "6": {
+            "match_number": "6",
+            "team": {
+                "number": "1555",
+                "color": "red"
+            }
+        },
+        "7": {
+            "match_number": "7",
+            "team": {
+                "number": "9119",
+                "color": "red"
+            }
+        },
+        "8": {
+            "match_number": "8",
+            "team": {
+                "number": "3936",
+                "color": "red"
+            }
+        },
+        "9": {
+            "match_number": "9",
+            "team": {
+                "number": "2171",
+                "color": "red"
+            }
+        },
+        "10": {
+            "match_number": "10",
+            "team": {
+                "number": "5010",
+                "color": "red"
+            }
+        },
+        "11": {
+            "match_number": "11",
+            "team": {
+                "number": "6721",
+                "color": "red"
+            }
+        },
+        "12": {
+            "match_number": "12",
+            "team": {
+                "number": "8103",
+                "color": "red"
+            }
+        },
+        "13": {
+            "match_number": "13",
+            "team": {
+                "number": "5484",
+                "color": "red"
+            }
+        },
+        "14": {
+            "match_number": "14",
+            "team": {
+                "number": "8431",
+                "color": "red"
+            }
+        },
+        "15": {
+            "match_number": "15",
+            "team": {
+                "number": "9453",
+                "color": "red"
+            }
+        },
+        "16": {
+            "match_number": "16",
+            "team": {
+                "number": "1646",
+                "color": "red"
+            }
+        },
+        "17": {
+            "match_number": "17",
+            "team": {
+                "number": "829",
+                "color": "red"
+            }
+        },
+        "18": {
+            "match_number": "18",
+            "team": {
+                "number": "7477",
+                "color": "red"
+            }
+        },
+        "19": {
+            "match_number": "19",
+            "team": {
+                "number": "5010",
+                "color": "red"
+            }
+        },
+        "20": {
+            "match_number": "20",
+            "team": {
+                "number": "135",
+                "color": "red"
+            }
+        },
+        "21": {
+            "match_number": "21",
+            "team": {
+                "number": "328",
+                "color": "red"
+            }
+        },
+        "22": {
+            "match_number": "22",
+            "team": {
+                "number": "10411",
+                "color": "red"
+            }
+        },
+        "23": {
+            "match_number": "23",
+            "team": {
+                "number": "447",
+                "color": "red"
+            }
+        },
+        "24": {
+            "match_number": "24",
+            "team": {
+                "number": "9554",
+                "color": "red"
+            }
+        },
+        "25": {
+            "match_number": "25",
+            "team": {
+                "number": "9431",
+                "color": "red"
+            }
+        },
+        "26": {
+            "match_number": "26",
+            "team": {
+                "number": "3936",
+                "color": "red"
+            }
+        },
+        "27": {
+            "match_number": "27",
+            "team": {
+                "number": "10332",
+                "color": "red"
+            }
+        },
+        "28": {
+            "match_number": "28",
+            "team": {
+                "number": "9071",
+                "color": "red"
+            }
+        },
+        "29": {
+            "match_number": "29",
+            "team": {
+                "number": "45",
+                "color": "red"
+            }
+        },
+        "30": {
+            "match_number": "30",
+            "team": {
+                "number": "2197",
+                "color": "red"
+            }
+        },
+        "31": {
+            "match_number": "31",
+            "team": {
+                "number": "1501",
+                "color": "red"
+            }
+        },
+        "32": {
+            "match_number": "32",
+            "team": {
+                "number": "135",
+                "color": "red"
+            }
+        },
+        "33": {
+            "match_number": "33",
+            "team": {
+                "number": "6721",
+                "color": "red"
+            }
+        },
+        "34": {
+            "match_number": "34",
+            "team": {
+                "number": "10434",
+                "color": "red"
+            }
+        },
+        "35": {
+            "match_number": "35",
+            "team": {
+                "number": "2197",
+                "color": "red"
+            }
+        },
+        "36": {
+            "match_number": "36",
+            "team": {
+                "number": "45",
+                "color": "red"
+            }
+        },
+        "37": {
+            "match_number": "37",
+            "team": {
+                "number": "7477",
+                "color": "red"
+            }
+        },
+        "38": {
+            "match_number": "38",
+            "team": {
+                "number": "328",
+                "color": "red"
+            }
+        },
+        "39": {
+            "match_number": "39",
+            "team": {
+                "number": "829",
+                "color": "red"
+            }
+        },
+        "40": {
+            "match_number": "40",
+            "team": {
+                "number": "1024",
+                "color": "red"
+            }
+        },
+        "41": {
+            "match_number": "41",
+            "team": {
+                "number": "2171",
+                "color": "red"
+            }
+        },
+        "42": {
+            "match_number": "42",
+            "team": {
+                "number": "6721",
+                "color": "red"
+            }
+        },
+        "43": {
+            "match_number": "43",
+            "team": {
+                "number": "1501",
+                "color": "red"
+            }
+        },
+        "44": {
+            "match_number": "44",
+            "team": {
+                "number": "1555",
+                "color": "red"
+            }
+        },
+        "45": {
+            "match_number": "45",
+            "team": {
+                "number": "461",
+                "color": "red"
+            }
+        },
+        "46": {
+            "match_number": "46",
+            "team": {
+                "number": "10434",
+                "color": "red"
+            }
+        },
+        "47": {
+            "match_number": "47",
+            "team": {
+                "number": "3147",
+                "color": "red"
+            }
+        },
+        "48": {
+            "match_number": "48",
+            "team": {
+                "number": "1024",
+                "color": "red"
+            }
+        },
+        "49": {
+            "match_number": "49",
+            "team": {
+                "number": "3865",
+                "color": "red"
+            }
+        },
+        "50": {
+            "match_number": "50",
+            "team": {
+                "number": "9530",
+                "color": "red"
+            }
+        },
+        "51": {
+            "match_number": "51",
+            "team": {
+                "number": "1646",
+                "color": "red"
+            }
+        },
+        "52": {
+            "match_number": "52",
+            "team": {
+                "number": "5484",
+                "color": "red"
+            }
+        },
+        "53": {
+            "match_number": "53",
+            "team": {
+                "number": "4926",
+                "color": "red"
+            }
+        },
+        "54": {
+            "match_number": "54",
+            "team": {
+                "number": "447",
+                "color": "red"
+            }
+        },
+        "55": {
+            "match_number": "55",
+            "team": {
+                "number": "9431",
+                "color": "red"
+            }
+        },
+        "56": {
+            "match_number": "56",
+            "team": {
+                "number": "1555",
+                "color": "red"
+            }
+        },
+        "57": {
+            "match_number": "57",
+            "team": {
+                "number": "7477",
+                "color": "red"
+            }
+        },
+        "58": {
+            "match_number": "58",
+            "team": {
+                "number": "4926",
+                "color": "red"
+            }
+        },
+        "59": {
+            "match_number": "59",
+            "team": {
+                "number": "9071",
+                "color": "red"
+            }
+        },
+        "60": {
+            "match_number": "60",
+            "team": {
+                "number": "2171",
+                "color": "red"
+            }
+        },
+        "61": {
+            "match_number": "61",
+            "team": {
+                "number": "5010",
+                "color": "red"
+            }
+        },
+        "62": {
+            "match_number": "62",
+            "team": {
+                "number": "2867",
+                "color": "red"
+            }
+        },
+        "63": {
+            "match_number": "63",
+            "team": {
+                "number": "9554",
+                "color": "red"
+            }
+        },
+        "64": {
+            "match_number": "64",
+            "team": {
+                "number": "10434",
+                "color": "red"
+            }
+        },
+        "65": {
+            "match_number": "65",
+            "team": {
+                "number": "9530",
+                "color": "red"
+            }
+        },
+        "66": {
+            "match_number": "66",
+            "team": {
+                "number": "8103",
+                "color": "red"
+            }
+        },
+        "67": {
+            "match_number": "67",
+            "team": {
+                "number": "461",
+                "color": "red"
+            }
+        },
+        "68": {
+            "match_number": "68",
+            "team": {
+                "number": "328",
+                "color": "red"
+            }
+        },
+        "69": {
+            "match_number": "69",
+            "team": {
+                "number": "10029",
+                "color": "red"
+            }
+        },
+        "70": {
+            "match_number": "70",
+            "team": {
+                "number": "10411",
+                "color": "red"
+            }
+        },
+        "71": {
+            "match_number": "71",
+            "team": {
+                "number": "3865",
+                "color": "red"
+            }
+        },
+        "72": {
+            "match_number": "72",
+            "team": {
+                "number": "4926",
+                "color": "red"
+            }
+        }
+    }
+}
